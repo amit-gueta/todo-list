@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.mrgnbtm {
+  margin-top: 30px;
+}
